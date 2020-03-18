@@ -1,0 +1,16 @@
+{
+  "name": "atoropin/hello-world",
+  "description": "Little big app just for test",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Andrey Toropin",
+      "email": "at@rusatom.dev"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Abc\\Efg\\": ""
+    }
+  }
+}
