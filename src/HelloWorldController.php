@@ -1,6 +1,6 @@
 <?php
 
-namespace Abc\Efg;
+namespace Atoropin\HelloWorld;
 
 use App\Http\Controllers\Controller;
 
